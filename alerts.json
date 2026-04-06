@@ -1,0 +1,142 @@
+[
+    {
+        "alert_id": 2,
+        "ip": "192.168.1.20",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:01:12",
+        "last_seen": "2026-04-06 09:02:30",
+        "attempts": 3,
+        "type": "Account Compromise",
+        "message": "Failed logins followed by success"
+    },
+    {
+        "alert_id": 3,
+        "ip": "10.0.0.5",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:05:15",
+        "last_seen": "2026-04-06 09:07:30",
+        "attempts": 6,
+        "type": "Brute Force",
+        "message": "Brute force attack detected (6 attempts)"
+    },
+    {
+        "alert_id": 7,
+        "ip": "10.10.10.11",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:21:25",
+        "last_seen": "2026-04-06 09:22:40",
+        "attempts": 3,
+        "type": "Account Compromise",
+        "message": "Failed logins followed by success"
+    },
+    {
+        "alert_id": 8,
+        "ip": "8.8.8.8",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:25:30",
+        "last_seen": "2026-04-06 09:28:00",
+        "attempts": 6,
+        "type": "Brute Force",
+        "message": "Brute force attack detected (6 attempts)"
+    },
+    {
+        "alert_id": 10,
+        "ip": "203.0.113.5",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:35:00",
+        "last_seen": "2026-04-06 09:36:20",
+        "attempts": 5,
+        "type": "Brute Force",
+        "message": "Brute force attack detected (5 attempts)"
+    },
+    {
+        "alert_id": 11,
+        "ip": "198.51.100.11",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:41:10",
+        "last_seen": "2026-04-06 09:42:45",
+        "attempts": 5,
+        "type": "Brute Force",
+        "message": "Brute force attack detected (5 attempts)"
+    },
+    {
+        "alert_id": 13,
+        "ip": "192.0.2.25",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:45:15",
+        "last_seen": "2026-04-06 09:47:10",
+        "attempts": 4,
+        "type": "Account Compromise",
+        "message": "Failed logins followed by success"
+    },
+    {
+        "alert_id": 14,
+        "ip": "150.150.150.150",
+        "severity": "CRITICAL",
+        "first_seen": "2026-04-06 09:50:00",
+        "last_seen": "2026-04-06 09:51:00",
+        "attempts": 7,
+        "type": "Brute Force",
+        "message": "Brute force attack detected (7 attempts)"
+    },
+    {
+        "alert_id": 1,
+        "ip": "192.168.1.20",
+        "severity": "HIGH",
+        "first_seen": "2026-04-06 09:01:12",
+        "last_seen": "2026-04-06 09:02:30",
+        "attempts": 3,
+        "type": "Multiple Failures",
+        "message": "Multiple failed logins (3)"
+    },
+    {
+        "alert_id": 5,
+        "ip": "192.168.1.60",
+        "severity": "HIGH",
+        "first_seen": "2026-04-06 09:16:10",
+        "last_seen": "2026-04-06 09:17:25",
+        "attempts": 4,
+        "type": "Multiple Failures",
+        "message": "Multiple failed logins (4)"
+    },
+    {
+        "alert_id": 6,
+        "ip": "10.10.10.11",
+        "severity": "HIGH",
+        "first_seen": "2026-04-06 09:21:25",
+        "last_seen": "2026-04-06 09:22:40",
+        "attempts": 3,
+        "type": "Multiple Failures",
+        "message": "Multiple failed logins (3)"
+    },
+    {
+        "alert_id": 12,
+        "ip": "192.0.2.25",
+        "severity": "HIGH",
+        "first_seen": "2026-04-06 09:45:15",
+        "last_seen": "2026-04-06 09:47:10",
+        "attempts": 4,
+        "type": "Multiple Failures",
+        "message": "Multiple failed logins (4)"
+    },
+    {
+        "alert_id": 4,
+        "ip": "172.16.0.3",
+        "severity": "MEDIUM",
+        "first_seen": "2026-04-06 09:11:20",
+        "last_seen": "2026-04-06 09:11:50",
+        "attempts": 2,
+        "type": "Suspicious Activity",
+        "message": "Suspicious login activity"
+    },
+    {
+        "alert_id": 9,
+        "ip": "192.168.100.2",
+        "severity": "MEDIUM",
+        "first_seen": "2026-04-06 09:31:15",
+        "last_seen": "2026-04-06 09:31:45",
+        "attempts": 2,
+        "type": "Suspicious Activity",
+        "message": "Suspicious login activity"
+    }
+]
